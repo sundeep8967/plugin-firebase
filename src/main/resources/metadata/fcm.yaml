@@ -1,0 +1,8 @@
+group: io.kestra.plugin.firebase.fcm
+name: "fcm"
+title: "Firebase Cloud Messaging"
+description: "Send push notifications using Firebase Cloud Messaging (FCM)"
+body: ""
+videos: []
+createdBy: "Kestra Community"
+managedBy: "Kestra Community"

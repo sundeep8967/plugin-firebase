@@ -1,8 +1,8 @@
-group: io.kestra.plugin.templates
-name: "template"
-title: "Template"
-description: "Plugin template for Kestra"
+group: io.kestra.plugin.firebase
+name: "firebase"
+title: "Firebase"
+description: "Tasks for sending push notifications with Firebase Cloud Messaging (FCM) and interacting with Firebase services"
 body: ""
 videos: []
-createdBy: "Kestra Core Team"
-managedBy: "Kestra Core Team"
+createdBy: "Kestra Community"
+managedBy: "Kestra Community"
